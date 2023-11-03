@@ -27,12 +27,12 @@ Perform data pre-processing to manipulate the data for analysis and draft out ta
 Analyze the data more deeply and extract insights
 Visualize the data using Python and Tableau. Check out the Tableau Workbook on Global Terrorism Analysis By Samarpan Das
 Glimpses of the Prime Findings
-In 2014 there are 16000 terrorist activities happens which is highest no of attack happens within 1970 to 2017.
-Middle East & North America records 5000 terrorist activities which is highest among all the regions. 
-After 2010 more than 5000 people killed by terrorist attacks.
-The analysis supports the result that count of attacks and count of casualties are directly proportional.
-It has been seen that explosives have always been the weapon of choice for terror organisations for 47.7 % of all attacks.
-Private Citizens and military have always been the biggest targets for terror organisations.
-It can be concluded that attacks by Taliban and Houthi Extremists(Ansar Allah) are on a arise and organisations like Islamic State of Iraq (ISI) are dying down
-Among Attack types, hijacking and hostage takings have caused the highest average of casualties per attacks.
-Al-Qaida has been the most lethal terror organisation, they have ended up causing 468.3 casualties per attacks.
+  In 2014 there are 16000 terrorist activities happens which is highest no of attack happens within 1970 to 2017.
+  Middle East & North America records 5000 terrorist activities which is highest among all the regions. 
+  After 2010 more than 5000 people killed by terrorist attacks.
+  The analysis supports the result that count of attacks and count of casualties are directly proportional.
+  It has been seen that explosives have always been the weapon of choice for terror organisations for 47.7 % of all attacks.
+  Private Citizens and military have always been the biggest targets for terror organisations.
+  It can be concluded that attacks by Taliban and Houthi Extremists(Ansar Allah) are on a arise and organisations like Islamic State of Iraq (ISI) are dying down
+  Among Attack types, hijacking and hostage takings have caused the highest average of casualties per attacks.
+  Al-Qaida has been the most lethal terror organisation, they have ended up causing 468.3 casualties per attacks.
