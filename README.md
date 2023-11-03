@@ -25,8 +25,8 @@ Clean the data
 Prepare the data for processing and analysis
 Perform data pre-processing to manipulate the data for analysis and draft out targetted tabels for analysis
 Analyze the data more deeply and extract insights
-Visualize the data using Python and Tableau. Check out the Tableau Workbook on Global Terrorism Analysis By Samarpan Das
-  Glimpses of the Prime Findings
+Visualize the data using Python and Tableau. Check out the Tableau Workbook on Global Terrorism Analysis By Samarpan Das    
+                                                                                                                                                                                                                 Glimpses of the Prime Findings
   In 2014 there are 16000 terrorist activities happens which is highest no of attack happens within 1970 to 2017.
   Middle East & North America records 5000 terrorist activities which is highest among all the regions. 
   After 2010 more than 5000 people killed by terrorist attacks.
